@@ -1,0 +1,11 @@
+class ArticlesController
+  @article: untyped
+
+  @articles: untyped
+
+  def index: -> untyped
+
+  def new: -> untyped
+
+  def show: -> untyped
+end

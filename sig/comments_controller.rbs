@@ -1,0 +1,12 @@
+class CommentsController
+  @article: untyped
+
+  @comment: untyped
+
+  def create: -> untyped
+
+  private
+
+  def comment_params: -> untyped
+
+end
